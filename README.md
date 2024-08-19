@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gopimanimaran
-- 👀 I’m interested in discussing new ideas and solving problems
-- 🌱 I’m currently learning Gen AI
-- 💞️ I’m looking to collaborate on cloud based solutions
+- 👋 Hi, I am @gopimanimaran
+- 👀 Interested in discussing new ideas and solving problems
+- 🌱 Currently learning Gen AI
+- 💞️ Looking to collaborate on multi cloud based solutions.
 - 📫 How to reach me https://github.com/gopimanimaran
 
 
